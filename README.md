@@ -2,7 +2,7 @@
 
 ## Требования:
 - Использовать Manifest v3
-- Использовать Vue2/Vue3 (CDN версию) для UI (popup.html)
+- Использовать Vue2/Vue3 (~~CDN версию~~ [v3 не позволяет использовать CDN](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-overview/#remotely-hosted-code)) для UI (popup.html)
 - Расположения кнопок, полей и дизайн окна на свое усмотрение
 
 ## Функционал:
