@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Test extension",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "service_worker": "assets/background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.google.com/"
+            ],
+            "js": [
+                "assets/content.js"
+            ]
+        }
+    ],
+    "permissions": []
+}
