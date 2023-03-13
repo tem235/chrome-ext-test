@@ -1,7 +1,13 @@
 {
     "manifest_version": 3,
     "name": "Test extension",
+    "description": "By entering the URL in the field and clicking on the 'Open new tab' button, the entered page opens in a new pinned tab in the background (inactive tab).",
     "version": "1.0.0",
+    "icons": {
+        "16": "img/code16.png",
+        "48": "img/code48.png",
+        "128": "img/code128.png"
+    },
     "action": {
         "default_popup": "popup.html"
     },
