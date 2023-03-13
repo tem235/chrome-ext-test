@@ -18,5 +18,7 @@
             ]
         }
     ],
-    "permissions": []
+    "permissions": [
+        "activeTab"
+    ]
 }
