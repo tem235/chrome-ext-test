@@ -19,3 +19,9 @@
 ## References:
 https://developer.chrome.com/docs/extensions/mv3/
 https://vuejs.org/guide/quick-start.html#using-vue-from-cdn/
+
+
+## Screenshots chrome extension
+![Screen 1](https://github.com/tem235/chrome-ext-test/blob/main/screens/screen1.png)
+![Screen 2](https://github.com/tem235/chrome-ext-test/blob/main/screens/screen2.png)
+![Screen 3](https://github.com/tem235/chrome-ext-test/blob/main/screens/screen3.png)
